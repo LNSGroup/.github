@@ -1,3 +1,3 @@
 ## Hi there 👋
 
-[LNS Group](https://lnsgroup.cc/)
+# [LNS Group](https://lnsgroup.cc/)
